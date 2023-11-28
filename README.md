@@ -3,7 +3,18 @@
 UNSW COMP2511 Project
 team work by two people  
   
-**This is a dungeon-style game designed for desktop, that allows the user to move the player character to interact with other entities in a variety of dungeon environments.**  
+## Overview
+**This is a dungeon-style game designed for desktop, that allows the user to move the player character to interact with other entities in a variety of dungeon environments. We followed an agile development process to design and implement this application.**  
+  
+**This application reads input from JSON files and UI component uses JavaFX.**
+
+## Dungeon Layout
+  
+## Domain modelling
+  
+## Backend Implementation
+
+## UI design
   
 ![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/UI_bs.png)  
 ![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/UI_bs2.png)  
