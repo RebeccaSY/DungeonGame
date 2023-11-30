@@ -26,7 +26,7 @@ Enemies move towards the player unless blocked by wall, move away from player wh
 
 ![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_enemymove.png)  
 
-Basic goals include *getting to an exit, destroying allenemies, having a boulder on all floor switched, collecting all treasures. * To complete the dungeon, the goal can be can of these 4 or a combination of them.  
+Basic goals include *getting to an exit, destroying allenemies, having a boulder on all floor switched, collecting all treasures.* To complete the dungeon, the goal can be can of these 4 or a combination of them.  
 
 ![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/sc_goalcondition.png)  
 
