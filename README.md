@@ -10,7 +10,7 @@ team work by two people
 
 ## Dungeon Layout
   
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/layout.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/layout.png" width="800"/>  
   
 ## Domain modelling
 **UML Class Diagram**
@@ -20,27 +20,27 @@ team work by two people
 ## Backend Implementation
 Player's movement is controlled by keyboard input from the user. The player interacts with different entities.  
 
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_player.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_player.png" width="500"/>  
 
 Enemies move towards the player unless blocked by wall, move away from player when the player is invincible.  (Extension: AI movements?)  
 
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_enemymove.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_enemymove.png" width="500"/>   
 
 Basic goals include *getting to an exit, destroying allenemies, having a boulder on all floor switched, collecting all treasures.* To complete the dungeon, the goal can be can of these 4 or a combination of them.  
 
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/sc_goalcondition.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/sc_goalcondition.png" width="500"/>   
 
 Entities like *Door, Key,* and *Portal* are in pairs, each pair is assigned with the same ID.  
   
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_door.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_door.png" width="500"/>  
   
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_key.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_key.png" width="500"/>    
   
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_portal.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/entity_portal.png" width="500"/>    
 
 *Observer Pattern* is used to track the position of entities and update status of each entity.  
 
-![Image text](https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/sc_observer.png)  
+<img src="https://github.com/RebeccaSY/DungeonGame/blob/main/Demo/sc_observer.png" width="500"/>    
   
 
 ## UI design
